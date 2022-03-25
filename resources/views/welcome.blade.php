@@ -5,11 +5,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
+    <title>Mi Informe Close Up</title>
+    <!-- icon -->
 
     <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
-
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,wght@0,100;0,300;1,200;1,900&display=swap');
+    </style>
     <!-- Styles -->
 
     <style>

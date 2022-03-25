@@ -36,6 +36,12 @@
                 </div>
             @endif
 
-           <h1>Home Tenancy</h1>
+           <p>
+            <h1>Home   </h1>
+           </p>
+           <p>
+               <br><br>
+              <h2>  {{ $tenant }} </h2>
+           </p>
     </body>
 </html>
